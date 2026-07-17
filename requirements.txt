@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy
+requests
+python-dotenv
+scikit-learn
+typer
+vaderSentiment
+google-genai
